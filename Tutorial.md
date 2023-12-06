@@ -31,7 +31,7 @@
 1. On this page you can add an end screen or add cards to promote related content
 2. Press the "Next" button again to move on from this page
 
-# Step 7
+# Step 7: You're Done!
 1. Once YouTube checks your account for copyright content and you can complete the check you can set your video's visibility. You can choose from Public, Private, and Unlisted.
 2. This should be the last page before your video is uploaded. Click the "Save" button and your video is ready!
 
