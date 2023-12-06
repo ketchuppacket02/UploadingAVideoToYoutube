@@ -36,7 +36,7 @@
 2. This should be the last page before your video is uploaded. Click the "Save" button and your video is ready!
 
 # Step 8: Share Your Video
-!. Once your video is uploaded and published, you can share it with friends and followers using the video link provided.
+1. Once your video is uploaded and published, you can share it with friends and followers using the video link provided.
 Congratulations! You've successfully uploaded a video to YouTube. It may take some time for YouTube to process your video, but once it's ready, it will be available for others to watch.
 
 
